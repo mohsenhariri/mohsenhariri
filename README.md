@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+### Templates
+- [A [simple] [general-purpose] Python template 🐍🚀🎉🦕](https://github.com/mohsenhariri/template-python)
+
+- [Node.js template w/ MongoBD and Redis 🐉✨💥🐅](https://github.com/mohsenhariri/template-node)
+
+- [JavaScript template w/ Webpack 🦏🔥☄️🐲](https://github.com/mohsenhariri/template-js)
+
+- [Java template 🐋 🫖☕️🐘](https://github.com/mohsenhariri/template-java)
+
+### Algorithms
 [Maze Generator](https://mohsenhariri.github.io/maze-generator)
 
 [Breadth-first search in lattice graph](https://mohsenhariri.github.io/visualization-bfs)
@@ -9,8 +19,6 @@
 [Obeidempire](https://obeidempire.com/)
 
 [Tetris](https://mohsenhariri.github.io/tetris)
-
-[Reinforcement Learning on Tetris](https://mohsenhariri.github.io/tetris-rl)
 
 <!--
 
