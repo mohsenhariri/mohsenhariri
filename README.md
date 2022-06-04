@@ -9,16 +9,20 @@
 
 - [Java template 🐋 🫖☕️🐘](https://github.com/mohsenhariri/template-java)
 
+### Encryption
+
+- [Enhanced Thumbnail Preserve Encryption 🔐🌄🏞🔐](https://mohsenhariri.github.io/TPEncryption)
+
 ### Algorithms
-[Maze Generator](https://mohsenhariri.github.io/maze-generator)
+- [Maze Generator](https://mohsenhariri.github.io/maze-generator)
 
-[Breadth-first search in lattice graph](https://mohsenhariri.github.io/visualization-bfs)
+- [Breadth-first search in lattice graph](https://mohsenhariri.github.io/visualization-bfs)
 
-[Depth-first search in lattice graph](https://mohsenhariri.github.io/visualization-dfs)
+- [Depth-first search in lattice graph](https://mohsenhariri.github.io/visualization-dfs)
 
-[Obeidempire](https://obeidempire.com/)
+- [Obeidempire](https://obeidempire.com/)
 
-[Tetris](https://mohsenhariri.github.io/tetris)
+- [Tetris](https://mohsenhariri.github.io/tetris)
 
 <!--
 
