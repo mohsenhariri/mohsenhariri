@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+### LLMs
+
+- [More for Keys, Less for Values: Adaptive KV Cache Quantization ☝️🔑👇🔢](https://mohsenhariri.github.io/kvq)
+
+### Encryption
+
+- [Enhanced Thumbnail Preserve Encryption 🔐🌄🏞🔐](https://mohsenhariri.github.io/TPEncryption)
+
 ### Templates
 - [A [simple] [general-purpose] Python template 🐍🚀🎉🦕](https://github.com/mohsenhariri/template-python)
 
@@ -8,21 +16,6 @@
 - [JavaScript template w/ Webpack 🦏🔥☄️🐲](https://github.com/mohsenhariri/template-js)
 
 - [Java template 🐋 🫖☕️🐘](https://github.com/mohsenhariri/template-java)
-
-### Encryption
-
-- [Enhanced Thumbnail Preserve Encryption 🔐🌄🏞🔐](https://mohsenhariri.github.io/TPEncryption)
-
-### Algorithms
-- [Maze Generator](https://mohsenhariri.github.io/maze-generator)
-
-- [Breadth-first search in lattice graph](https://mohsenhariri.github.io/visualization-bfs)
-
-- [Depth-first search in lattice graph](https://mohsenhariri.github.io/visualization-dfs)
-
-- [Obeidempire](https://obeidempire.com/)
-
-- [Tetris](https://mohsenhariri.github.io/tetris)
 
 <!--
 
