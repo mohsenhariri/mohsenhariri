@@ -2,7 +2,7 @@
 
 ### LLMs
 
-- [More for Keys, Less for Values: Adaptive KV Cache Quantization ☝️🔑👇🔢](https://mohsenhariri.github.io/kvq)
+- [Quantize What Counts: Bit Allocation Insights Informed by Spectral Gaps in Keys and Values](https://github.com/mohsenhariri/spectral-kv)
 
 ### Encryption
 
