@@ -2,7 +2,9 @@
 
 ### LLMs
 
-- [Quantize What Counts: Bit Allocation Insights Informed by Spectral Gaps in Keys and Values](https://github.com/mohsenhariri/spectral-kv)
+- [Don’t Pass@k: A Bayesian Framework for Large Language Model Evaluation](https://github.com/mohsenhariri/scorio)
+- [70% Size, 100% Accuracy: Lossless LLM Compression for Efficient GPU Inference via Dynamic-Length Float](https://pypi.org/project/vllm-df11/)
+- [Quantize What Counts: More for Keys, Less for Values](https://github.com/mohsenhariri/spectral-kv)
 
 ### Encryption
 
