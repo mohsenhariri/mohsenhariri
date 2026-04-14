@@ -2,9 +2,14 @@
 
 ### LLMs
 
-- [Don’t Pass@k: A Bayesian Framework for Large Language Model Evaluation](https://github.com/mohsenhariri/scorio)
-- [70% Size, 100% Accuracy: Lossless LLM Compression for Efficient GPU Inference via Dynamic-Length Float](https://pypi.org/project/vllm-df11/)
-- [Quantize What Counts: More for Keys, Less for Values](https://github.com/mohsenhariri/spectral-kv)
+- [Ranking Reasoning LLMs under Test-Time Scaling](https://github.com/mohsenhariri/scorio) ACL 2026 Main
+
+- [Quantize What Counts: More for Keys, Less for Values](https://github.com/mohsenhariri/spectral-kv) ACL 2026 Findings
+
+- [Don’t Pass@k: A Bayesian Framework for Large Language Model Evaluation](https://github.com/mohsenhariri/scorio) ICLR 2026
+
+- [70% Size, 100% Accuracy: Lossless LLM Compression for Efficient GPU Inference via Dynamic-Length Float](https://pypi.org/project/vllm-df11/) NeurIPS 2025
+
 
 ### Encryption
 
